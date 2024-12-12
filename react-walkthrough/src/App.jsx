@@ -1,4 +1,4 @@
-import TestComponent from './tutorial/01-useState/6-exit-ticket'
+import TestComponent from './tutorial/05-forms/2-multiple-inputs'
 
 function App() {
     return (
