@@ -1,4 +1,4 @@
-import TestComponent from './tutorial/05-forms/2-multiple-inputs'
+import TestComponent from './tutorial/03-useEffect/3-useEffect-fetch-data'
 
 function App() {
     return (
